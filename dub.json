@@ -1,0 +1,14 @@
+﻿{
+	"name": "h2-server-bench",
+	"description": "Uses the HTTPS and HTTP/2 protocol for serving requests.",
+	"authors": [ "Etienne Cimon", "Yannick Koechlin" ],
+	"dependencies": {
+		"vibe-d": "~>1.0.0+commit.97.gd8e8f7a"
+	},
+	"subConfigurations": {"vibe-d": "libasync_botan" },
+	"versions": [		
+		"VibeCustomMain",
+		"VibeNoDebug",
+		"DisableDebugger"
+	]
+}

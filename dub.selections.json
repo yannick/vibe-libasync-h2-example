@@ -1,0 +1,12 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"botan": "1.12.5+commit.3.g3792cf7",
+		"botan-math": "1.0.2",
+		"libasync": "0.7.9+commit.40.g75e77b6",
+		"libhttp2": "0.2.8",
+		"memutils": "0.4.5+commit.2.g07bb1c7",
+		"openssl": "1.1.4+1.0.1g",
+		"vibe-d": "1.0.0+commit.97.gd8e8f7a"
+	}
+}
